@@ -2,28 +2,14 @@
 
 ## Description
 
-This project consists of creating a home page for my personal portfolio. In the HTML code, links were used to connect the titles of the navigation bar with the content information. 
-In the development of the code, a semantic criterion was used to be able to identify the parts of the page more easily. In addition, helpful comments were added for the following modifications.
+This project consists of my page for my personal portfolio. At the top there is a navigation bar to be able to scroll through the different sections. There is a brief presentation about me and a section for the main projects developed.
 
-At the moment I do not have developed projects but the links of each section (HTML, CSS and JavaScript) would be updated as I develop them.
+In the work section you can find a main project and two subjects.
 
-## Acceptance Criteria
+The project consists of a web page that allows you to check the price of four cryptocurrencies along with relevant news about them. The subjects are a generator of passwords depending on criteria to choose from and a scheduler for a working day.
 
-```
-GIVEN I need to sample a potential employee's previous work
-WHEN I load their portfolio
-THEN I am presented with the developer's name, a recent photo, and links to sections about them, their work, and how to contact them
-WHEN I click one of the links in the navigation
-THEN the UI scrolls to the corresponding section
-WHEN I click on the link to the section about their work
-THEN the UI scrolls to a section with titled images of the developer's applications
-WHEN I am presented with the developer's first application
-THEN that application's image should be larger in size than the others
-WHEN I click on the images of the applications
-THEN I am taken to that deployed application
-WHEN I resize the page or view the site on various screens and devices
-THEN I am presented with a responsive layout that adapts to my viewport
-```
+As a footer there is a section to contact me, as well as links to my GitHub and LinkedIn profile.
+
 ## Mock Up
 
 Portfolio: <https://luiscruz-24.github.io/Portfolio_Luis/>
