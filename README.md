@@ -16,4 +16,4 @@ Portfolio: <https://luiscruz-24.github.io/Portfolio_Luis/>
 
 ### Personal Portfolio - Luis Cruz
 
-![Personal Portfolio](./assets/images/Captura.JPG)
+![Personal Portfolio](./assets/images/landing_page.JPG)
