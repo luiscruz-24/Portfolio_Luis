@@ -10,6 +10,11 @@ The project consists of a web page that allows you to check the price of four cr
 
 As a footer there is a section to contact me, as well as links to my GitHub and LinkedIn profile.
 
+## Technologies used:
+
+* HTML5
+* CSS
+
 ## Mock Up
 
 Portfolio: <https://luiscruz-24.github.io/Portfolio_Luis/>
@@ -17,3 +22,11 @@ Portfolio: <https://luiscruz-24.github.io/Portfolio_Luis/>
 ### Personal Portfolio - Luis Cruz
 
 ![Personal Portfolio](./assets/images/landing_page.JPG)
+
+![Personal Portfolio](./assets/images/landing_page_2.JPG)
+
+![Personal Portfolio](./assets/images/landing_page_3.JPG)
+
+## Contact
+
+Email: luis.crz.v@gmail.com
