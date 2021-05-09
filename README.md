@@ -1,5 +1,7 @@
 # Portfolio
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## Description
 
 This project consists of my page for my personal portfolio. At the top there is a navigation bar to be able to scroll through the different sections. There is a brief presentation about me and a section for the main projects developed.
